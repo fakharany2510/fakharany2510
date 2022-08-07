@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakharany2510&label=Profile%20views&color=0e75b6&style=flat" alt="fakharany2510" /> </p>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m working as **flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fakharany2510](https://github.com/fakharany2510)
 
